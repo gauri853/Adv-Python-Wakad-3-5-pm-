@@ -1,3 +1,4 @@
+
 # Simple intrest Calculation
 
 def simple_intrest(p,n,r):
